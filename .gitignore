@@ -58,3 +58,10 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+RTD_M_Proto/Library/Artifacts/*
+RTD_M_Proto/Library/PackageCache/*
+RTD_M_Proto/Logs/*
+RTD_M_Proto/Temp/*
+RTD_M_Proto/obj/*
+RTD_M_Proto/Library/ShaderCache/*
+
